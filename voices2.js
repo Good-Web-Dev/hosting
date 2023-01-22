@@ -78,7 +78,7 @@ var adj5 = new Audio("https://files.soundoftext.com/6109be50-4ae8-11ed-a44a-8501
 
 var adj6 = new Audio("https://files.soundoftext.com/d78445c0-49e2-11ed-a44a-8501b7b1aefa.mp3");
 
-var adj7 = new Audio("https://translate.google.com/translate_tts?ie=UTF-8&q=Old-fashioned%20&tl=en-US&total=1&idx=0&client=tw-ob&ttsspeed=1");
+var adj7 = new Audio("https://translate.google.com/translate_tts?ie=UTF-8&q=Old-fashioned&tl=en-US&total=1&idx=0&client=tw-ob&ttsspeed=1");
 
 var adj8 = new Audio("https://files.soundoftext.com/2a1503a0-66fe-11ed-a44a-8501b7b1aefa.mp3");
 
