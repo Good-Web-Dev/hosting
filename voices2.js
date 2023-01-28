@@ -78,14 +78,14 @@ var adj5 = new Audio("https://files.soundoftext.com/6109be50-4ae8-11ed-a44a-8501
 
 var adj6 = new Audio("https://files.soundoftext.com/d78445c0-49e2-11ed-a44a-8501b7b1aefa.mp3");
 
-var adj7 = new Audio("https://translate.google.com/translate_tts?ie=UTF-8&q=Old-fashioned&tl=en-US&total=1&idx=0&client=tw-ob&ttsspeed=1");
+var adj7 = new Audio("https://files.soundoftext.com/48081170-652f-11ed-a44a-8501b7b1aefa.mp3");
 
 var adj8 = new Audio("https://files.soundoftext.com/2a1503a0-66fe-11ed-a44a-8501b7b1aefa.mp3");
 
 console.log("Real Talk Go Here!");
 
-var rt1 = new Audio("https://translate.google.com/translate_tts?ie=UTF-8&q=Feeling%20down&tl=en-US&total=1&idx=0&client=tw-ob&ttsspeed=1");
+var rt1 = new Audio("https://files.soundoftext.com/94f43040-9b30-11ed-a44a-8501b7b1aefa.mp3");
 
-var rt2 = new Audio("https://translate.google.com/translate_tts?ie=UTF-8&q=Look%20out%20for%20myself&tl=en-US&total=1&idx=0&client=tw-ob&ttsspeed=1");
+var rt2 = new Audio("https://files.soundoftext.com/98edf320-9b30-11ed-a44a-8501b7b1aefa.mp3");
 
-var rt3 = new Audio("https://translate.google.com/translate_tts?ie=UTF-8&q=To%20be%20honest&tl=en-US&total=1&idx=0&client=tw-ob&ttsspeed=1");
+var rt3 = new Audio("https://files.soundoftext.com/85a4bd30-4a18-11ed-a44a-8501b7b1aefa.mp3");
